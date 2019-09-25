@@ -10,10 +10,10 @@
     />
 
     <!-- AGL things. -->
-    <project name="AGL/meta-agl" path="meta-agl" remote="agl" revision="refs/tags/halibut/7.99.3"/>
-    <project name="AGL/meta-agl-cluster-demo" path="meta-agl-cluster-demo" remote="agl" revision="refs/tags/halibut/7.99.3"/>
-    <project name="AGL/meta-agl-demo" path="meta-agl-demo" remote="agl" revision="refs/tags/halibut/7.99.3"/>
-    <project name="AGL/meta-agl-devel" path="meta-agl-devel" remote="agl" revision="refs/tags/halibut/7.99.3"/>
-    <project name="AGL/meta-agl-extra" path="meta-agl-extra" remote="agl" revision="refs/tags/halibut/7.99.3"/>
-    <project name="AGL/meta-agl-telematics-demo" path="meta-agl-telematics-demo" remote="agl" revision="refs/tags/halibut/7.99.3"/>
+    <project name="AGL/meta-agl" path="meta-agl" remote="agl" revision="refs/tags/halibut/7.99.1"/>
+    <project name="AGL/meta-agl-cluster-demo" path="meta-agl-cluster-demo" remote="agl" revision="refs/tags/halibut/7.99.1"/>
+    <project name="AGL/meta-agl-demo" path="meta-agl-demo" remote="agl" revision="refs/tags/halibut/7.99.1"/>
+    <project name="AGL/meta-agl-devel" path="meta-agl-devel" remote="agl" revision="refs/tags/halibut/7.99.1"/>
+    <project name="AGL/meta-agl-extra" path="meta-agl-extra" remote="agl" revision="refs/tags/halibut/7.99.1"/>
+    <project name="AGL/meta-agl-telematics-demo" path="meta-agl-telematics-demo" remote="agl" revision="refs/tags/halibut/7.99.1"/>
 </manifest>
